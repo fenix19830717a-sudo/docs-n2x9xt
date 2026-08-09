@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-lhz24b.pulaucuan.net/sitemap.xml
